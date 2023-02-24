@@ -35,3 +35,5 @@ go.work
 bin
 .vscode
 TODO.md
+*.xml
+.idea/grpc-go-course.iml
